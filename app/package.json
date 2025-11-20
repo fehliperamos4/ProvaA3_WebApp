@@ -1,0 +1,8 @@
+{
+	"scripts": { 
+	"dev": "app dev",
+	"build": "app build",
+	"start": "app start"
+	}
+}
+
